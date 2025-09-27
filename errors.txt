@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: invalid syntax. Perhaps you forgot a comma?
+    Character("Eileen" color = "#3b0d0d")
+              ^^^^^^^^^^^^^^
+
+File "game/script.rpy", line 8: invalid syntax. Perhaps you forgot a comma?
+    Character("Narrator" color = "#f5829f")
+              ^^^^^^^^^^^^^^^^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Sat Sep 27 15:00:40 2025
